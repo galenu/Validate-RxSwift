@@ -1,0 +1,6 @@
+framework module Pods_Validate_RxSwift_Example {
+  umbrella header "Pods-Validate-RxSwift_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

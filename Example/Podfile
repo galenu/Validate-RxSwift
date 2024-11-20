@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '13.0'
+
+target 'Validate-RxSwift_Example' do
+  pod 'Validate-RxSwift', :path => '../'
+
+  target 'Validate-RxSwift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,6 @@
+framework module Validate_RxSwift {
+  umbrella header "Validate-RxSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
